@@ -26,7 +26,7 @@ Follow these steps and see the screenshot below to create a new repository.
 
     `your-github-username.github.io`
     
-    replacing `your-github-username` with you actual GitHub username.  MAKE SURE your username is spelled correctly, otherwise you'll have problems.
+    replacing `your-github-username` with your actual GitHub username.  MAKE SURE your username is spelled correctly, otherwise you'll have problems.
     
 
 2. Enter a description for your repository in the **Description** box, like `My own awesome website!'.
